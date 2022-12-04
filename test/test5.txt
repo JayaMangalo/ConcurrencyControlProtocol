@@ -1,0 +1,19 @@
+R 1 A
+R 2 B
+R 1 B
+R 3 A
+R 4 B
+R 5 C
+R 1 C
+R 2 B
+R 3 C
+R 4 A
+R 4 C
+R 6 A
+R 5 B 
+C 1
+C 2
+C 3
+C 4
+C 5
+C 6

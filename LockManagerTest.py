@@ -1,12 +1,11 @@
-from SimpleLocking import SimpleLocking
-
-
+import SimpleLocking as sl
+# import SimpleLockingwithDPrevention as sl
 if __name__ == "__main__":
     
-    filename = "test/test1.txt"
+    filename = "test/test2.txt"
     f = open(filename, "r")
 
-    lm = SimpleLocking()
+    lm = sl.SimpleLocking()
 
     for line in f:
         data = line.split()
@@ -24,4 +23,6 @@ if __name__ == "__main__":
             Transaction = data[1]
             lm.Commit(Transaction)
             
+    lm.End()        
+        
         

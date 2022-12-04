@@ -1,0 +1,12 @@
+R 1 A
+R 1 B
+R 1 B
+R 2 C
+R 1 C
+R 2 A
+R 1 B
+R 2 C
+R 2 B
+R 2 B
+C 1
+C 2

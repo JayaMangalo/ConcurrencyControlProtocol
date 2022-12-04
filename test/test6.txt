@@ -1,0 +1,26 @@
+R 1 A
+R 1 B
+R 1 C
+R 1 D
+R 1 E
+R 1 F
+R 1 G
+R 1 H
+R 1 I
+R 2 D
+R 2 G
+R 3 A
+R 3 B
+R 3 D
+R 3 G
+R 2 A
+R 2 B
+R 4 F
+R 5 F
+R 5 G
+R 4 G
+C 2
+C 3
+C 4
+C 5 
+C 1

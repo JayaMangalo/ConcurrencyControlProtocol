@@ -1,0 +1,110 @@
+R 3 C
+R 8 J
+R 1 C
+R 9 H
+R 9 E
+R 7 A
+R 1 G
+R 1 I
+R 5 G
+R 2 K
+R 4 K
+R 7 H
+R 5 F
+R 4 J
+R 7 F
+R 8 C
+R 5 H
+R 3 D
+R 6 E
+R 8 F
+R 5 D
+R 6 E
+R 7 A
+R 1 K
+R 1 C
+R 5 O
+R 8 F
+R 4 D
+R 5 C
+R 10 L
+R 2 N
+R 1 I
+R 7 A
+R 5 K
+R 5 J
+R 8 A
+R 5 K
+R 2 B
+R 10 B
+R 9 B
+R 10 D
+R 8 E
+R 7 E
+R 4 I
+R 2 I
+R 3 G
+R 3 J
+R 7 F
+R 7 E
+R 5 F
+R 10 B
+R 1 E
+R 6 J
+R 4 J
+R 8 F
+R 1 H
+R 2 N
+R 3 I
+R 5 O
+R 10 H
+R 7 L
+R 7 J
+R 4 G
+R 8 M
+R 3 B
+R 8 O
+R 1 F
+R 1 C
+R 1 C
+R 6 A
+R 5 A
+R 1 H
+R 10 I
+R 4 D
+R 4 E
+R 1 C
+R 10 O
+R 7 K
+R 1 N
+R 4 E
+R 8 I
+R 8 L
+R 8 I
+R 3 I
+R 3 B
+R 4 C
+R 9 L
+R 3 K
+R 6 B
+R 3 G
+R 6 G
+R 8 F
+R 10 C
+R 8 N
+R 9 H
+R 7 B
+R 1 J
+R 2 K
+R 3 A
+R 4 J
+C 1
+C 2
+C 3
+C 4
+C 5
+C 6
+C 7
+C 8
+C 9
+C 10

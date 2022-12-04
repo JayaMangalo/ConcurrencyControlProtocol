@@ -1,0 +1,15 @@
+R 1 A
+R 1 B
+R 1 C
+R 1 D
+R 1 E
+R 3 F
+R 2 F
+R 2 A
+R 2 B
+R 3 C
+R 3 D 
+R 3 E
+C 3
+C 1
+C 2
