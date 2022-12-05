@@ -64,6 +64,8 @@ class OCC:
         else:
             print("Validation failed; ")
             print(f"T{TID} aborted",end="; ")
+            return False
+        return True
     
 if __name__ == '__main__':
     total_transaction = int(input("Total Transaction : "))
@@ -90,4 +92,7 @@ if __name__ == '__main__':
             occ.WriteItem(TID,ItemName)
             
         elif data[0] == 'C':
-            occ.Commit(TID) 
+            success = occ.Commit(TID)
+            if(not success):
+                print("Transaction Failed")
+                break

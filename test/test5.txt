@@ -1,12 +1,12 @@
 R 1 A
 R 2 B
-R 1 B
+W 1 B
 R 3 A
 R 4 B
-R 5 C
+W 5 C
 R 1 C
 R 2 B
-R 3 C
+W 3 C
 R 4 A
 R 4 C
 R 6 A
